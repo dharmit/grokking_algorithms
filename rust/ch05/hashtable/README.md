@@ -1,0 +1,2 @@
+The hasher implemented in this directory is a simple modulo hasher that performs module operation on the bytes in the
+key. The Map implementation is taken from [this blog](https://viniciusx.com/blog/building-a-hash-map/).
